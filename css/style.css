@@ -1,0 +1,15 @@
+/* for fixed nav bar 改LOGO後記得重改！！*/
+body {
+    padding-top: 126px;
+}
+
+/* for href #id 又有設定 fixed nav bar 改LOGO後記得重改！！*/
+section {
+    padding-top: 126px;
+    margin-top: -126px;
+}
+
+/* for sticky top margin  改LOGO後記得重改！！*/
+/* .sticky-top {
+    top: 126px;
+} */
